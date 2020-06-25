@@ -1,0 +1,12 @@
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\bin\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.exe
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\bin\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.deps.json
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\bin\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.runtimeconfig.json
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\bin\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.runtimeconfig.dev.json
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\bin\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.dll
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\bin\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.pdb
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\obj\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.AssemblyInfoInputs.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\obj\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.AssemblyInfo.cs
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\obj\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\obj\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.dll
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\obj\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.pdb
+C:\Users\zhaoy\codecamp2020\visual_studio\CSharp-Studio3-CountingCharacters\CSharp-Studio3-CountingCharacters\obj\Debug\netcoreapp3.1\CSharp-Studio3-CountingCharacters.genruntimeconfig.cache
